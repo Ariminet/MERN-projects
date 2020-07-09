@@ -1,0 +1,7 @@
+GET http://localhost:5024/users/admin/5ee14c005e7b5a2a54d342a3 HTTP/1.1
+content-type: application/json
+
+{
+}
+
+

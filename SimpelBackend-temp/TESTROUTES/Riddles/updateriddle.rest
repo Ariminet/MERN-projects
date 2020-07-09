@@ -1,0 +1,11 @@
+PUT http://localhost:5024/riddles/admin/5ee0cda5b3c42c26bcbc123b HTTP/1.1
+content-type: application/json
+
+{ 
+  "riddle":"PENIS ",
+"answer":"POLLE"
+}
+
+
+
+

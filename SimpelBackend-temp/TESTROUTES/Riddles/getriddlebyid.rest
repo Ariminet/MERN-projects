@@ -1,0 +1,5 @@
+GET http://localhost:5024/riddles/5ee15fea5794fb2e4c48f438 HTTP/1.1
+content-type: application/json
+
+{
+}

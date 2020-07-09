@@ -1,0 +1,12 @@
+PUT http://localhost:5024/users/admin/5ee0cc297ebe89317ca345a5 HTTP/1.1
+content-type: application/json
+
+{
+    "userName": "ss",
+    "userPassword": "ssss",
+    "userEmail": "fra@polle.dk"
+}
+
+
+
+

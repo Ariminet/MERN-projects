@@ -1,0 +1,11 @@
+POST http://localhost:5024/riddles/add HTTP/1.1
+content-type: application/json
+
+{ 
+  "riddle":"yes",
+"answer":"Any"
+}
+
+
+
+
